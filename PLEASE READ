@@ -14,6 +14,9 @@ board (will likely crash). Ctrl+W the tab and restart server
 if the board starts to duplicate images/text repeatedly, then
 load demo.xml again.
 
-DISABLE ALL UNNECESSARY EXTENSIONS BEFORE TESTING
+DISABLE ALL UNNECESSARY EXTENSIONS BEFORE TESTING. Should
+otherwise work with Chrome, Chromium and Firefox browsers,
+as well as all standard mobile browsers (very poorly but
+should still appear to visually load)
 
 */
